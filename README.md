@@ -4,4 +4,4 @@ This android app shows an AR board using the target image. App is built with uni
 AR-Board
 ![ar-board](ar-view-board-smart-farming.png?raw=true "AR-Board")
 
-![ar-board-working](working.png?raw=true "AR-Board-working")
+![ar-board-working](working.jpeg?raw=true "AR-Board-working")
